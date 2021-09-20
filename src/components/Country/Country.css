@@ -1,0 +1,9 @@
+.country{
+    border: 2px solid tomato;
+    background: honeydew;
+    border-radius: 10px;
+    color:slateblue;
+}
+.country img{
+    width: 150px;
+}

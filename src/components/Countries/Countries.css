@@ -1,0 +1,12 @@
+.countries{
+    margin: 0 25px;
+}
+.countries-num{
+    color: slateblue;
+    font-style: italic;
+}
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
